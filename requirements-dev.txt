@@ -1,0 +1,7 @@
+-r requirements.txt
+bumpversion
+sphinx-click
+tox>=1.8
+codecov
+pysocks
+mock; python_version < '3.6'
