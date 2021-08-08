@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-"""Top-level package for telegram-upload."""
+"""Top-level package for xnup."""
 
 __author__ = """Khairulikhsn"""
 __email__ = 'contacto@nekmo.com'

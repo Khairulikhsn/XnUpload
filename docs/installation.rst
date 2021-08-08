@@ -8,13 +8,13 @@ Installation
 Stable release
 --------------
 
-To install telegram-upload, run these commands in your terminal:
+To install xnup, run these commands in your terminal:
 
 .. code-block:: console
 
-    $ sudo pip3 install -U telegram-upload
+    $ sudo pip3 install -U xnup
 
-This is the preferred method to install telegram-upload, as it will always install the most recent stable release.
+This is the preferred method to install xnup, as it will always install the most recent stable release.
 
 If you don't have `pip`_ installed, this `Python installation guide`_ can guide
 you through the process.
@@ -27,7 +27,7 @@ Other releases
 --------------
 You can install other versions from Pypi using::
 
-    $ pip install telegram-upload==<version>
+    $ pip install xnup==<version>
 
 For versions that are not in Pypi (it is a development version)::
 

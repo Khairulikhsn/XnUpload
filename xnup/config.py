@@ -3,8 +3,8 @@ import os
 
 import click
 
-CONFIG_FILE = os.path.expanduser('~/.config/telegram-upload.json')
-SESSION_FILE = os.path.expanduser('~/.config/telegram-upload')
+CONFIG_FILE = os.path.expanduser('~/.config/xnup.json')
+SESSION_FILE = os.path.expanduser('~/.config/xnup')
 
 
 def default_config():

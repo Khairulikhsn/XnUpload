@@ -12,12 +12,12 @@ AUTHOR = "Khairulikhsn"
 EMAIL = 'contacto@nekmo.com'
 URL = 'https://github.com/Khairulikhsn/XnUpload/'
 
-PACKAGE_NAME = 'telegram-upload'
+PACKAGE_NAME = 'xnup'
 PACKAGE_DOWNLOAD_URL = 'https://github.com/Khairulikhsn/XnUpload/archive/main.zip'
 MODULE = 'xnup'
 REQUIREMENT_FILE = 'requirements.txt'
 STATUS_LEVEL = 5  # 1:Planning 2:Pre-Alpha 3:Alpha 4:Beta 5:Production/Stable 6:Mature 7:Inactive
-KEYWORDS = ['telegram-upload', 'telegram', 'upload', 'video']
+KEYWORDS = ['xnup', 'telegram', 'upload', 'video']
 LICENSE = 'MIT license'
 
 CLASSIFIERS = [  # https://github.com/github/choosealicense.com/tree/gh-pages/_licenses

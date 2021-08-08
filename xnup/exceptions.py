@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-"""Exceptions for telegram-upload."""
+"""Exceptions for xnup."""
 import sys
 
 
@@ -53,6 +53,6 @@ def catch(fn):
         try:
             return fn(*args, **kwargs)
         except TelegramUploadError as e:
-            sys.stderr.write('[Error] telegram-upload Exception:\n{}\n'.format(e))
+            sys.stderr.write('[Error] xnup Exception:\n{}\n'.format(e))
             exit(e.error_code)
     return wrap

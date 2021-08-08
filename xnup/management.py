@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-"""Console script for telegram-upload."""
+"""Console script for xnup."""
 from typing import Type
 
 import click

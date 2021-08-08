@@ -142,7 +142,7 @@ html_theme_options = {
     'travis_button': True,
     'codecov_button': True,
     'analytics_id': 'UA-62276079-1',
-    'canonical_url': 'http://docs.nekmo.org/telegram-upload/'
+    'canonical_url': 'http://docs.nekmo.org/xnup/'
 }
 
 
